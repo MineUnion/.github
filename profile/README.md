@@ -1,12 +1,6 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Hi! 👋
+## We're MineUnion Team
+## 🌈We're now developing a project:JiGuang City!
+## 我们正在Minecraft中建设一个美妙的城市！
+<p>It's about build some amazing buildings on Minecraft! If you want to join us, you can tell us by email.</p>
+<p>如果你想要加入我们，可以通过邮件与我们取得联系！</p>
