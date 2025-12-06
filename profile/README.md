@@ -25,10 +25,10 @@
 ---
 
 ## 📬 联系我们 | Contact Us
-- 🌐 官网：[https://www.mineunion.eu.org]
+- 🌐 官网：https://www.mineunion.eu.org
 
 ---
 
 <div align="center" style="margin-top: 2rem; color: #888; font-size: 0.9rem;">
-  © 2025 MineUnion Team. All projects are open-source under the MIT License.
+  © 2025 MineUnion Team.
 </div>
