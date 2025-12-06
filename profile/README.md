@@ -1,6 +1,4 @@
-# MineUnion Team
-[![Minecraft Version](https://img.shields.io/badge/Minecraft-1.18--1.21-brightgreen)](https://minecraft.net)
-
+![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&animation=fadeIn&section=header&text=MineUnion&fontSize=120)
 ---
 
 <div align="center">
