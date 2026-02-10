@@ -30,5 +30,5 @@
 ---
 
 <div align="center" style="margin-top: 2rem; color: #888; font-size: 0.9rem;">
-  © 2025 MineUnion Team.
+  © 2026 MineUnion Team.
 </div>
